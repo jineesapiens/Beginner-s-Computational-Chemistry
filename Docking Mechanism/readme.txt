@@ -1,0 +1,1 @@
+This file contains necessary input files for geometry optimization of water dimer using ORCA docker
