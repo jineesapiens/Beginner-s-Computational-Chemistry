@@ -1,1 +1,2 @@
 Files necessary for QM/MM calculation of the vertical electron affinity of Guanine and Cytosine
+Optimize the geometry at BP86/def2-SVP/MM by taking the guanine in QM and performing the single point calculation using ωB97X-D3/def2-TZVP 
