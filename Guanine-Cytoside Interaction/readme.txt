@@ -1,0 +1,1 @@
+Files necessary for QM/MM calculation of the vertical electron affinity of Guanine and Cytosine
