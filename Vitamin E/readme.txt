@@ -1,1 +1,1 @@
-This file contains XTB optimized geometry of Alpha Tocoferol/Vitamin E. Use BP86/XTB Def2-SVP basis set used for the high level.
+This file contains XTB optimized geometry of Alpha Tocoferol/Vitamin E.
