@@ -1,0 +1,1 @@
+This file contains XTB optimized geometry of Alpha Tocoferol/Vitamin E
